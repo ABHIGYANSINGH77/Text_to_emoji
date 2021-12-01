@@ -11,16 +11,17 @@ example : 'let's go outside and play' hte closest emoji is ⚾ as the triggere w
 
 
 Dependencies:
-matplotlib
 
-numpy
+-->matplotlib
 
-pandas
+-->numpy
 
-csv 
+-->pandas
 
-emoji
+-->csv 
 
-sklearn
+-->emoji
 
-tensorflow
+-->sklearn
+
+-->tensorflow
