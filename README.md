@@ -8,3 +8,19 @@ In this code only 5 set of emojis are used for predicting these 5 emoji in the s
 emoji class contains ❤️ ,  ⚾ , 😄 , 😞 , 🍴 as [0,1,2,3,4]
 
 example : 'let's go outside and play' hte closest emoji is ⚾ as the triggere word in the example is 'play'.
+
+
+Dependencies:
+matplotlib
+
+numpy
+
+pandas
+
+csv 
+
+emoji
+
+sklearn
+
+tensorflow
